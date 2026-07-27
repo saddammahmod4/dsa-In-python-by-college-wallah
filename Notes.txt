@@ -1,0 +1,39 @@
+Programming Language:
+    A programming language is a formal language that provides instructions for a computer to execute. It's how humans communicate with computers to create software, applications, and other technology.
+
+    There are two types of programming language:
+        1. Low level
+        2. High level
+
+1. Low level:
+    Low level programming language only understand binary code (0 and 1).
+
+2. High level:
+    High level language are written by humans.
+    Eg:
+        Python, Java, C, C++ etc.
+
+Note:
+    Now need to convert high level to low level, so here two things work.
+    1. Compiler
+    2. Interpreter
+
+1. Compiler:
+    Compiler convert whole code at once.
+    Compiler show or return all erros at a time, because it's convert whole code.
+    Compiler analyze code slow, but run fast.
+
+2. Interpreter:
+    Interpreter convert line by line.
+    Interpreter show or return one error at a time. when fix it then it's go to next.
+    Interpreter analyze fasst, but run slow.
+
+
+Python:
+    Python is versatile, high-level, general purpose programming language designed for readability and easy to use.
+
+    A. Interpretered
+    B. High-level
+    C. Object-oriented
+    D. Extensive libraries
+    E. Beginner-friendly
